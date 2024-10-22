@@ -12,7 +12,7 @@ Additionally, I have also built a few open-source applications and projects:
 - [rubyvideo.dev](https://rubyvideo.dev) - On a mission to index all Ruby conferences.
 - [Phlexing](https://phlexing.fun) - An app and [gem](https://github.com/marcoroth/phlexing) for converting ERB to [Phlex](https://github.com/phlex-ruby/phlex)
 - [Hotwire.io](https://hotwire.io) - A community-driven documentation hub for Hotwire.
-- [Hotwire Weekly](https://hotwire.io/newsletter) - A weekly newsletter focus on Hotwire.
+- [Hotwire Weekly](https://hotwire.io/newsletter) - A weekly newsletter focused on Hotwire.
 - [Boxdrop](https://github.com/marcoroth/boxdrop) - An app that demonstrates the power of StimulusReflex
 - [gem.sh](https://github.com/marcoroth/gem.sh) - Beautiful documentation for any Ruby gem.
 
