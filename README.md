@@ -10,7 +10,7 @@ I have actively open-sourced, maintained, and contributed to several key librari
 Additionally, I have also built a few open-source applications and projects:
 - [rubyconferences.org](https://rubyconferences.org) - A website for listing upcoming Ruby events such as conferences, meetups, and CFPs.
 - [rubyvideo.dev](https://rubyvideo.dev) - On a mission to index all Ruby conferences.
-- [Phlexing](https://github.com/marcoroth/phlexing) - An app and gem for converting ERB to [Phlex](https://github.com/phlex-ruby/phlex)
+- [Phlexing](https://phlexing.fun) - An app and [gem](https://github.com/marcoroth/phlexing) for converting ERB to [Phlex](https://github.com/phlex-ruby/phlex)
 - [Hotwire.io](https://hotwire.io) - A community-driven documentation hub for Hotwire.
 - [Hotwire Weekly](https://hotwire.io/newsletter) - A weekly newsletter focus on Hotwire.
 - [Boxdrop](https://github.com/marcoroth/boxdrop) - An app that demonstrates the power of StimulusReflex
